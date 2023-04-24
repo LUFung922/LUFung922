@@ -6,7 +6,7 @@ Feel free to contact to me. Email address : [howardtang2003092@gmail.com](mailto
 
 Nice to meet you ~
 
-## IOCN
+## ICON
 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
